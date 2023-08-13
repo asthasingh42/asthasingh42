@@ -7,11 +7,11 @@ I am a tech enthusiast 💻 along with Biotechnology undergraduate who loves pro
 </a>
 
 
-<a href="https://twitter.com/Aaman0008">
-  <img align="left" alt="Aaman0008's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/AsthaSi55220880">
+  <img align="left" alt="Astha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/aman-singh-484549202/">
-  <img align="left" alt="Aman Singh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/astha-singh-0678a4216/">
+  <img align="left" alt="Astha Singh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/aman9113/">
   <img align="left" alt="aman9113's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
